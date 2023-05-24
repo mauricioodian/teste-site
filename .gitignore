@@ -1,0 +1,5 @@
+#Ignora "node_modules"
+/node_modules
+
+#Ignora ".env.local"
+.env.local
